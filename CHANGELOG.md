@@ -10,6 +10,12 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.2.0)
+
+1. perf: Avoid export filename conflicts.
+2. fix: Fix garbled filename display issue.
+3. fix: Resolve issue with paid unlock verification error.
+
 ## [v1.1.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.1.0)
 
 1. feat: support m4v and mov export

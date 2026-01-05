@@ -10,6 +10,12 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.2.0)
+
+1. perf: 避免导出文件名冲突
+2. fix: 修复文件名显示乱码问题
+3. fix: 修复付费解锁验证错误问题
+
 ## [v1.1.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.1.0)
 
 1. feat: 支持 m4v 和 mov 导出
