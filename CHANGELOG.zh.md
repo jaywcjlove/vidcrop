@@ -10,6 +10,12 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.3.0)
+
+1. feat：新增韩语/日语/德语/法语/中文（繁体）支持  
+2. feat: 新增可调节的视频播放速度控制  
+3. fix: 修复 MP4 导出在上传时的兼容性问题
+
 ## [v1.2.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.2.0)
 
 1. perf: 避免导出文件名冲突

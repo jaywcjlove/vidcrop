@@ -10,6 +10,12 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.3.0)
+
+1. feat: add Korean / Japanese / German / French / Traditional Chinese support  
+2. feat: add adjustable video playback speed controls  
+3. fix: resolve MP4 export compatibility issues during upload
+
 ## [v1.2.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.2.0)
 
 1. perf: Avoid export filename conflicts.
