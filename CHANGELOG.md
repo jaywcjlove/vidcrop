@@ -10,6 +10,10 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.3.1)
+
+1. fix: Fix export crop handling and stability
+
 ## [v1.3.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.3.0)
 
 1. feat: add Korean / Japanese / German / French / Traditional Chinese support  
