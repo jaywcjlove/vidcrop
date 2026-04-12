@@ -33,3 +33,5 @@ VidCrop is a video cropping tool that helps you easily crop video files. You can
 
 - Supports common video formats such as .mp4, .m4v, .mov, .mpg, .mpeg, and .3gp.
 - Users can adjust the cropping frame by dragging or customize the video size to crop any part of the video with precision.
+- Supports exporting cropped videos in .mp4, .m4v, and .mov formats.
+- Includes adjustable video playback speed controls for easier preview and editing.
