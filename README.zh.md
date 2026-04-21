@@ -17,7 +17,7 @@
     <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/cn/app/VidCrop/6752624705" title="VidCrop for macOS">
+    <a target="_blank" href="macappstore://itunes.apple.com/app/6752624705" title="VidCrop for macOS">
       <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
