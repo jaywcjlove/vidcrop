@@ -6,7 +6,7 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/vidcrop/6752624705" title="VidCrop for macOS">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6752624705" title="VidCrop for macOS">
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 

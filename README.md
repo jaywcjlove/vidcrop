@@ -17,7 +17,7 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="macappstore://itunes.apple.com/app/6752624705" title="VidCrop for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6752624705" title="VidCrop for macOS">
       <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
