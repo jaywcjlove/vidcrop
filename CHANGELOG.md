@@ -10,6 +10,11 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.4.0)
+
+1. feat: Add Finder "Open With" support.
+2. feat: Add GIF export support.
+
 ## [v1.3.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.3.1)
 
 1. fix: Fix export crop handling and stability

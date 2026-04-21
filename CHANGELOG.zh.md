@@ -10,6 +10,11 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.4.0)
+
+1. 新增：支持在 Finder 中通过「打开方式」直接调用应用处理文件。
+2. 新增：支持导出 GIF 格式。
+
 ## [v1.3.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.3.1)
 
 1. fix：修复导出裁剪处理及稳定性问题
