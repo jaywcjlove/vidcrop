@@ -10,6 +10,12 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.0)
+
+1. feat: 新增视频水印功能
+2. fix: 打开视频时显示主窗口
+3. chore: 更新应用列表依赖库
+
 ## [v1.4.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.4.0)
 
 1. 新增：支持在 Finder 中通过「打开方式」直接调用应用处理文件。
