@@ -10,6 +10,12 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.1)
+
+1. feat: add i18n support for watermark position labels
+2. style: optimize watermark style modification
+3. fix: improve crop selection interaction and handle hit detection
+
 ## [v1.5.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.0)
 
 1. feat: add video watermark support

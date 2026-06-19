@@ -10,6 +10,12 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.1)
+
+1. feat: 为水印位置标签添加 i18n 支持
+2. style: 优化水印样式修改
+3. fix: 改进裁剪选择交互并处理命中检测
+
 ## [v1.5.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.0)
 
 1. feat: 新增视频水印功能
