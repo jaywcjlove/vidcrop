@@ -10,6 +10,10 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.4](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.4)
+
+1. 修复：修正裁剪坐标与水印渲染问题
+
 ## [v1.5.3](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.3)
 
 1. 优化：优化裁剪视频导出效率
