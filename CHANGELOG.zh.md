@@ -10,6 +10,10 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.3](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.3)
+
+1. 优化：优化裁剪视频导出效率
+
 ## [v1.5.2](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.2)
 
 1. 性优化：通过对齐源文件码率与帧率，提升视频导出画质

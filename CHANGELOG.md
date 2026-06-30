@@ -10,6 +10,10 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.3](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.3)
+
+1. perf: optimize cropped video export performance
+
 ## [v1.5.2](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.2)
 
 1. perf: improve video export quality by matching source bitrate and frame rate
