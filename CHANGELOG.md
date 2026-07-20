@@ -10,6 +10,15 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.6.0)
+
+1. feat: Support random watermark position movement.
+2. feat: Add Russian language support.
+3. feat: Add a video trim timeline.
+4. feat: Add crop aspect ratio presets with instant selection updates.
+5. feat: Support export dimension scaling with proportional watermark resizing.
+6. fix: Optimize control bar popover layouts.
+
 ## [v1.5.4](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.4)
 
 1. fix: correct crop coordinates and watermark rendering

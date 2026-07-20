@@ -10,6 +10,15 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.6.0)
+
+1. 新增：支持随机移动水印位置。
+2. 新增：添加时间裁剪时间轴。
+3. 新增：支持裁剪比例预设，可即时切换并更新选择。
+4. 新增：支持导出尺寸缩放，并保持水印比例同步调整。
+5. 新增：新增俄语。
+6. 修复：优化控制栏弹出菜单布局。
+
 ## [v1.5.4](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.5.4)
 
 1. 修复：修正裁剪坐标与水印渲染问题
