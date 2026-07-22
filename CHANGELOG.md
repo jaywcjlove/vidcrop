@@ -10,6 +10,11 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.0)
+
+1. fix: stabilize side drawer open, dismiss, and cursor.
+2. feat: present watermark and face mosaic settings in a right drawer.
+
 ## [v1.7.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.7.0)
 
 1. feat: add export format menu and resolve build warnings.

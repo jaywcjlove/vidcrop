@@ -10,6 +10,11 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.0)
+
+1. feat：右侧抽屉增加水印、人脸马赛克设置项
+2. fix：稳定侧边抽屉展开、收起与光标交互
+
 ## [v1.7.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.7.0)
 
 1. feat: 添加导出格式菜单，修复构建警告
