@@ -10,6 +10,11 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.7.0)
+
+1. feat: add export format menu and resolve build warnings.
+2. feat: add multi-person face mosaic for preview and export.
+
 ## [v1.6.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.6.0)
 
 1. feat: Support random watermark position movement.

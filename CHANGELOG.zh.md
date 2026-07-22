@@ -10,6 +10,11 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.7.0)
+
+1. feat: 添加导出格式菜单，修复构建警告
+2. feat: 新增多人脸马赛克的预览与导出功能
+
 ## [v1.6.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.6.0)
 
 1. 新增：支持随机移动水印位置。
