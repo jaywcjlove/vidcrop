@@ -10,6 +10,12 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.1)
+
+1. 修复：确保人脸马赛克在预览和导出时始终跟随人脸移动。
+2. 修复：开始导出视频时自动暂停播放。
+3. 修复：导入新视频时清除人脸马赛克扫描状态。
+
 ## [v1.8.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.0)
 
 1. feat：右侧抽屉增加水印、人脸马赛克设置项

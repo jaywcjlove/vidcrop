@@ -10,6 +10,12 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.1)
+
+1. fix: keep face mosaic locked on faces during preview and export.
+2. fix: pause playback when starting video export.
+3. fix: clear face mosaic scan state when importing a new video.
+
 ## [v1.8.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.0)
 
 1. fix: stabilize side drawer open, dismiss, and cursor.
