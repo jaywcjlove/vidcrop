@@ -10,6 +10,11 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.9.0)
+
+1. feat: show video metadata chip below the side drawer.
+2. feat: lock crop resizing to the selected aspect ratio.
+
 ## [v1.8.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.1)
 
 1. fix: keep face mosaic locked on faces during preview and export.

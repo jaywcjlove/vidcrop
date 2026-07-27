@@ -10,6 +10,11 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.9.0)
+
+1. 新增：在侧边抽屉下方显示视频元数据标签。
+2. 新增：裁剪调整大小时锁定为选定的宽高比。
+
 ## [v1.8.1](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.8.1)
 
 1. 修复：确保人脸马赛克在预览和导出时始终跟随人脸移动。
