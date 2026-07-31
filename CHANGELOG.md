@@ -10,6 +10,11 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.10.0)
+
+1. feat: add WebP format support.
+2. fix: resolve an issue preventing read-only videos from being imported.
+
 ## [v1.9.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.9.0)
 
 1. feat: show video metadata chip below the side drawer.

@@ -10,6 +10,11 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.10.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.10.0)
+
+1. feat: 支持 WebP 图片（含动画 WebP）
+2. fix: 修复无法导入只读视频的问题。
+
 ## [v1.9.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.9.0)
 
 1. 新增：在侧边抽屉下方显示视频元数据标签。
