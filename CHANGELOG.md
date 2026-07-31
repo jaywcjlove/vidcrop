@@ -12,7 +12,7 @@ Changelog
 
 ## [v1.10.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.10.0)
 
-1. feat: add WebP format support.
+1. feat: add WebP format support. 
 2. fix: resolve an issue preventing read-only videos from being imported.
 
 ## [v1.9.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.9.0)
