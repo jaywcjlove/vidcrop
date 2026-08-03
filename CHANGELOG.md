@@ -10,6 +10,14 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.11.0)
+
+1. feat: add it language.
+2. feat: add button to cancel face scan.
+3. feat: add subtitle adding tool.
+4. feat: support ⌘A to select the full video crop region.
+5. fix: explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v1.10.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.10.0)
 
 1. feat: add WebP format support. 

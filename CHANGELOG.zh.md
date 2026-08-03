@@ -10,6 +10,14 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.11.0)
+
+1. 新增：添加意大利语本地化支持
+2. 新增：增加人脸扫描取消按钮
+3. 新增：新增字幕添加工具
+4. 新增：支持快捷键⌘A全选视频裁剪区域
+5. 修复：兼容macOS 27及以上系统，强制正常显示菜单栏图标符号
+
 ## [v1.10.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.10.0)
 
 1. feat: 支持 WebP 图片（含动画 WebP）
