@@ -31,6 +31,8 @@
 
 ![VidCrop screenshots](./assets/screenshots-3.jpg)
 
+![VidCrop screenshots](./assets/screenshots-4.jpg)
+
 
 VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。
 
