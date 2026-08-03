@@ -10,6 +10,14 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.12.0)
+
+1. 新增：添加字幕导入功能
+2. 新增：选中字幕片段可预览播放
+3. 新增：导出过程支持取消操作，并恢复箭头鼠标指针
+4. 新增：导入时加载字幕，支持软字幕轨道导出
+5. 修复：修复访达拖拽视频导入失效问题，恢复拖拽导入功能
+
 ## [v1.11.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.11.0)
 
 1. 新增：添加意大利语本地化支持

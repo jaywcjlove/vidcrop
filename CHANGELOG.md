@@ -10,6 +10,14 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.12.0)
+
+1. feat: add subtitle import function.
+2. feat: add preview playback for the selected subtitle cue.
+3. feat: add cancel export and restore arrow cursor while exporting.
+4. feat: load subtitles on import and support soft-track export.
+5. fix: restore drag-and-drop video import on Finder drops.
+
 ## [v1.11.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.11.0)
 
 1. feat: add it language.
