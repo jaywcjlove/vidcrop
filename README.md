@@ -25,8 +25,6 @@
 
 ![](./assets/VidCrop1.gif)
 
-![](./assets/VidCrop2.gif)
-
 ![VidCrop screenshots](./assets/screenshots-1.jpg)
 
 ![VidCrop screenshots](./assets/screenshots-2.jpg)
