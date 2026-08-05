@@ -10,6 +10,13 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.13.0)
+
+1. feat: dismiss side drawer and toolbar popovers on Escape.
+2. fix(i18n): update German mosaic label to Verpixeln.
+3. fix: route ⌘A to text select-all while editing fields.
+4. fix: start new subtitle cues after the previous cue end
+
 ## [v1.12.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.12.0)
 
 1. feat: add subtitle import function.

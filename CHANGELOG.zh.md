@@ -10,6 +10,13 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.13.0)
+
+1. 新功能：按下 Escape 键关闭侧边抽屉与工具栏悬浮弹窗
+2. 修复(国际化)：德语马赛克标签更新为 Verpixeln
+3. 修复：输入框编辑状态下 ⌘A 映射为文本全选
+4. 修复：新建字幕时段起始于上一条字幕时段结束之后
+
 ## [v1.12.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.12.0)
 
 1. 新增：添加字幕导入功能
