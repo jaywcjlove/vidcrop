@@ -10,6 +10,12 @@
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.14.0)
+
+1. feat(字幕): 为软字幕轨道增加字体、粗体、颜色样式设置
+2. fix: 修复无选区导出视频丢帧问题
+3. fix: 修复导入视频重置为默认参数问题
+
 ## [v1.13.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.13.0)
 
 1. 新功能：按下 Escape 键关闭侧边抽屉与工具栏悬浮弹窗

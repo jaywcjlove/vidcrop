@@ -10,6 +10,12 @@ Changelog
 <img alt="VidCrop AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.14.0)
+
+1. feat(subtitles): styled soft tracks with font, bold, and color
+2. fix: resolve dropped frames on video export without selection
+3. fix: preserve custom params instead of resetting to default on video import
+
 ## [v1.13.0](https://github.com/jaywcjlove/vidcrop/releases/tag/v1.13.0)
 
 1. feat: dismiss side drawer and toolbar popovers on Escape.
